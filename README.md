@@ -136,6 +136,7 @@ And More ...
 
 This page gives you just a short overview of Kotest. There are many more features:
 
+* Use [Kotest Android](doc/android.md) and write your android tests with all the power of Kotest
 * Test whole collections with [Inspectors](doc/reference.md#inspectors).
 * Write elegant conditions with the [matcher DSL](doc/reference.md#matchers-and-assertions): `"hello".shouldHaveSubstring("ell")`.
 * Reuse test logic for setup or tear down, with [Listeners](doc/reference.md#listeners).
